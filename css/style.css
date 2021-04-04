@@ -1,0 +1,25 @@
+.back{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("../css/assets/desktop-pc.jpg");
+    background-size: cover;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+}
+
+label{
+    color: chocolate;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+
+span{
+    font-size: small;
+    color: red;
+}
+
+.atrinium__label{
+    cursor: pointer;
+    display: block;
+
+}
